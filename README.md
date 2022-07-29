@@ -1,4 +1,13 @@
-# docker-hsd
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**:warning: This repository has been archived and will no longer be maintained because [Handshake](https://handshake.org/) released official docker image**
+
+- hsd repository: https://github.com/handshake-org/hsd/
+- hsd dockerfile: https://github.com/handshake-org/hsd/blob/master/Dockerfile
+- hsd image on dockerhub: https://hub.docker.com/r/handshakeorg/hsd
+- hsd image on ghcr.io: https://github.com/handshake-org/hsd/pkgs/container/hsd
+
+# ~~docker-hsd~~ - deprecated
 
 Docker build of handshake.org daemon [hsd](https://github.com/handshake-org/hsd).
 
